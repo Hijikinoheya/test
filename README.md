@@ -9,3 +9,48 @@
 | Huawei Honor 8          | 3,000      | 60.0                   | 69.8                   | 82.4                   | 67.3                   | 73.2                   | 83.9                   | 74.0      | 78.5      | 87.5      | 52.5       | 60.5       | 66.0       |
 | Samsung Galaxy S21      | 4,000      | 63.0                   | 71.4                   | 84.6                   | 69.5                   | 74.9                   | 86.3                   | 76.0      | 81.0      | 92.0      | 53.9       | 64.2       | 69.3       |
 | Xiaomi Redmi 4G MSM8928 | 4,500      | 59.5                   | 68.0                   | 80.1                   | 64.8                   | 71.0                   | 82.0                   | 73.0      | 78.0      | 88.5      | 51.0       | 61.0       | 67.0       |
+
+---
+### Science Fair Project
+
+#### Title
+**Impact of Screen Brightness and Connectivity on Smartphone Battery Life**
+
+#### Question
+How does changing screen brightness and connectivity settings (Wi-Fi, Bluetooth, SIM) affect battery consumption in smartphones?
+
+#### Background Research
+This experiment investigates the relationship between smartphone battery usage and factors such as screen brightness and connectivity settings. Research indicates that higher screen brightness increases battery drain, and wireless connections like Wi-Fi and Bluetooth consume additional power even when not actively used. This experiment helps identify optimal settings for conserving battery life.
+
+#### Hypothesis
+Lower screen brightness and turning off connectivity features (Wi-Fi, Bluetooth) will result in less battery drain compared to higher brightness and active connectivity settings.
+
+#### Materials
+- Smartphones (iPhone, Samsung Galaxy, Xiaomi, etc., with specific mAh capacity)
+- Stable indoor environment at 25°C
+- Charging cables and a method to monitor battery percentage
+- Notebook and pen for observations
+
+#### Procedure
+1. Set up each phone at high, medium, and low brightness levels.
+2. Test each brightness level with different connectivity settings:
+   - Wi-Fi on, Bluetooth off
+   - Wi-Fi off, Bluetooth on
+   - Both off
+   - SIM only
+3. Measure the battery percentage after one hour for each setup.
+4. Record results and repeat each test three times to get an average.
+
+#### Experiment
+Follow each procedure carefully to ensure consistent results. Use multiple brands and models to compare results across devices.
+
+#### Results
+The results will display battery usage as a percentage for each phone under different conditions, showing the impact of brightness and connectivity settings on battery consumption.
+
+#### Conclusion
+The experiment’s results will indicate whether or not the hypothesis is supported, showing specific settings that maximize battery life across different devices.
+
+#### Bibliography
+List all resources used for background research, including:
+- Websites on smartphone battery usage
+- Studies on screen brightness impact on battery life
